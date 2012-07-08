@@ -1,5 +1,3 @@
-# Death to Redundant View Templates!
-
 Require this package and call compile with the directory you want to compile.  Anything ending in ```*.html``` will be compiled to an unminified string with none of the handlebars options.
 
 ```coffeescript
